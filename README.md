@@ -11,7 +11,7 @@ Pour protéger les données de mon association, j'en ai modifié certaines.
 
 Graph-annees.png
 
-![GitHub Logo](https://github.com/DelB22/DV-projet/main/Graph-annees.png)
+![GitHub Logo](https://github.com/DelB22/DV-projet/raw/main/Graph-annees.png)
 
 
 
