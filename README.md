@@ -9,7 +9,7 @@ Je, conseillère pour QuidJuris, résous les questions juridiques des clients au
 
 Pour protéger les données de mon association, j'en ai modifié certaines. Néanmoins, les proportions restent inchangées.
 
-##Premier graphe
+## Premier graphe
 
 Le premier graphes rassemble toutes les bases de données de QuidJuris. Il sert à comparer le nombre de demandes reçues depuis la création de l'association jusqu'à l'année 2023. 2024 n'est bien sûre pas prise en compte puisqu'elle n'est pas encore achevée. Néanmoins, une fois qu'elle le sera, je pourrais ajouter la base de donnée 2024 à la visualisation ci-dessous, ainsi que les années  qui suivront. 
 
@@ -17,11 +17,11 @@ Le premier graphes rassemble toutes les bases de données de QuidJuris. Il sert 
 
 Ce graphe n'est qu'une vue d'ensemble du nombre de demandes reçues. Il ne prend par exemple pas en compte la longueur de chaque demande, ce qui fait varier considérablement le temps nécessaire pour rédiger un avis de droit et les honoraires perçus. Le graphe ne fait non plus de distinction en fonction de la matière, ce que le graphe suivant corrige. 
 
-##Deuxième graphe
+## Deuxième graphe
 
 ![GitHub Logo](https://github.com/DelB22/DV-projet/blob/main/graph-matieres.png)
 
-##Troisième graphe
+## Troisième graphe
 
 ![GitHub Logo](https://github.com/DelB22/DV-projet/blob/main/graph-facilit%C3%A9.png)
 
