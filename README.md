@@ -11,7 +11,7 @@ Pour protéger les données de mon association, j'en ai modifié certaines.
 
 Le premier graphes rassemble toutes les bases de données de QuidJuris. Il sert à comparer le nombre de demandes reçues depuis la création de l'association jusqu'à l'année 2023. 2024 n'est bien sûre pas prise en compte puisqu'elle n'est pas encore achevée. Néanmoins, une fois qu'elle le sera, je pourrais ajouter la base de donnée 2024 à la visualisation ci-dessous, ainsi que les années  qui suivront. 
 
-![GitHub Logo](https://github.com/DelB22/DV-projet/raw/main/Graph-annees.png)
+![GitHub Logo](https://github.com/DelB22/DV-projet/raw/main/graph-annees.png)
 
 
 
