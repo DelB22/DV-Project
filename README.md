@@ -1,4 +1,6 @@
 # DV-projet
+
+## Introduction
 **Projet data visualisation 2024**
 
 Dans le cadre de mon master en droit, criminalité et sécurité des technologies de l'information, j'ai suivi le cours Visualisation des données du Professeur Pante.
@@ -25,6 +27,8 @@ Ce graphe n'est qu'une vue d'ensemble du nombre de demandes reçues. Il ne prend
 
 ![GitHub Logo](https://github.com/DelB22/DV-projet/blob/main/graph-facilit%C3%A9.png)
 
+
+## Conclusion
 
 Vous trouverez ci-dessous le lien vers le Notebook :
 
