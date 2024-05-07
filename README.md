@@ -33,7 +33,7 @@ Ce graphe représente la quantité de demandes reçues sur six ans. Contrairemen
 
 ![GitHub Logo](https://github.com/DelB22/DV-projet/blob/main/graph-matieres.png)
 
-Pour des raisons de lisibilité, tous les domaines traités durant ces six ans ne sont pas affichés dans le graphe. Tous les avis rédigés par QuidJuris couvrent au moins vingt matières juridiques par an. De ce fait, j'ai choisi d'aborder seulement les domaines pour lesquels l'association reçoit le plus de demande. À cela, j'ai adjoint deux matières qui m'intéresse d'étudier sur le temps : 
+Pour des raisons de lisibilité, tous les domaines traités durant ces six ans ne sont pas affichés dans le graphe. Tous les avis rédigés par QuidJuris couvrent au moins vingt matières juridiques par an. De ce fait, j'ai choisi d'aborder seulement les domaines pour lesquels l'association reçoit le plus de demande. À cela, j'ai adjoint deux matières qui m'intéressent d'étudier plus en profondeur sur le temps : 
 
 - Covid : durant la période du *lockdown*, certains clients nous ont posé des questions sur différentes conséquences juridiques de la pandémie. Malgré la présence peristante du Covid, il semblerait que, pour nous clients, les inquiétudes sur le côté légal de la maladie aient diminuées avec la fin du *lockdown*. Il sera intéressant de savoir si un sujet qui pourra potentiellement refaire surface, notamment par rapport aux remboursements des prêts effectués par la Confédération ;
 - La protection des données : en plus des d'avis juridiques sur la protection des données, QuidJuris propose également des formations sur le sujet depuis deux ans (pas inclus dans les nombres de demandes). À travers ces formations et le chiffre croissant de questions traitées sur ce domaine par QuidJuris, nous avons pu constaté que c'est un sujet devenant de plus en plus anxiogène. En effet, entre le Règlement général sur la protection des données (RGPD/UE) et l'entrée en vigueur en septembre 2023 de la nouvelle Loi fédérale sur la protection des données (LPD), ce domaine de droit est d'actualité. Nous avons remarqué que beaucoup de petites sociétés peinent souvent à savoir si ce qu'elles font est légal. Ayant consulté toutes les bases de données de QuidJuris, je peux affirmer que la protection des données n'a jamais fait partie des questions posées par nos clients avant 2021.
@@ -41,6 +41,8 @@ Pour des raisons de lisibilité, tous les domaines traités durant ces six ans n
 Au demeurant, j'ai fait face à quelques problèmes en collectant les données pour déterminer le domaine de droit. En effet, souvent, une demande ne peut pas être cantonnée à une seule matière juridique. Certaines demandes relevées concernaient plusieurs domaines présents dans le graphe. Dans ce genre de situation, j'ai attribué la demande au domaine qui semblait prépondérant. 
 
 ## Troisième graphe
+
+Le dernier graphe est plus personnel puisqu'il compare la différence entre le niveau de facilité que j'ai ressenti en étudiant un domaine de droit à l'Université et celui en le pratiquant dans le cadre de mon mandat pour QuidJuris. 
 
 ![GitHub Logo](https://github.com/DelB22/DV-projet/blob/main/graph-facilit%C3%A9.png)
 
