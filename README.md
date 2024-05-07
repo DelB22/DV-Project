@@ -46,6 +46,13 @@ Le dernier graphe est plus personnel puisqu'il compare la différence entre le n
 
 ![GitHub Logo](https://github.com/DelB22/DV-projet/blob/main/graph-facilit%C3%A9.png)
 
+Le graphe ne traite, bien évidemment, que des matières vues dans les cadres. Par exemple, le cours de droit romain de deuxième année de Bachelor de droit, bien que très apprécié, ne peut pas figurer sur ce graphe. Il y a également des questions soulevées par des clients que l'Université n'a pas couvertes, comme beaucoup des conséquences juridiques liées au Covid, ainsi que la rédaction de contrats ou de lettres pour les clients. 
+
+Comme pour le graphe précédent, pour des questions de compacité, tous les domaines de droit étudiés et pratiqués ne sont pas affichés. Je n'ai choisi de considérer que les matières sur lesquelles j'ai rédigé plusieurs avis puisque, d'après moi, une seule demande est insuffisante pour baser mon opinion sur la difficulté que représente un domaine de droit en pratique.
+
+
+
+
 
 ## Conclusion
 
