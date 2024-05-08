@@ -3,9 +3,9 @@
 ### Table des matières
 
 1. Introduction
-2. Premier graphe
-3. Deuxième graphe
-4. Troisième graphe
+2. Graphe - années
+3. Graphe - matières
+4. Graphes - facilité
 5. Conclusion
 
 ## Introduction
@@ -19,7 +19,7 @@ Je, conseillère pour QuidJuris, résous les questions juridiques des clients au
 
 Pour protéger les données de mon association, j'en ai modifié certaines. Néanmoins, les proportions restent inchangées.
 
-## Premier graphe
+## Graphe - années
 
 Le premier graphes rassemble toutes les bases de données de QuidJuris. Il sert à comparer le nombre de demandes reçues depuis la création de l'association jusqu'à l'année 2023. 2024 n'est bien sûre pas prise en compte puisqu'elle n'est pas encore achevée. Néanmoins, une fois qu'elle le sera, je pourrais ajouter la base de donnée 2024 à la visualisation ci-dessous, ainsi que les années  qui suivront. 
 
@@ -27,7 +27,7 @@ Le premier graphes rassemble toutes les bases de données de QuidJuris. Il sert 
 
 Ce graphe n'est qu'une vue d'ensemble du nombre de demandes reçues. Il ne prend par exemple pas en compte la longueur de chaque demande, ce qui fait varier considérablement le temps nécessaire pour rédiger un avis de droit et les honoraires perçus. Le graphe ne fait non plus de distinction en fonction de la matière, ce que le graphe suivant corrige. 
 
-## Deuxième graphe
+## Graphe - matières
 
 Ce graphe représente la quantité de demandes reçues sur six ans. Contrairement au graphe précédent, y est également présent le domaine de droit concernées par les demandes.
 
@@ -40,7 +40,7 @@ Pour des raisons de lisibilité, tous les domaines traités durant ces six ans n
 
 Au demeurant, j'ai fait face à quelques problèmes en collectant les données pour déterminer le domaine de droit. En effet, souvent, une demande ne peut pas être cantonnée à une seule matière juridique. Certaines demandes relevées concernaient plusieurs domaines présents dans le graphe. Dans ce genre de situation, j'ai attribué la demande au domaine qui semblait prépondérant. 
 
-## Troisième graphe
+## Graphe- facilité
 
 Le dernier graphe est plus personnel puisqu'il compare la différence entre le niveau de facilité que j'ai ressenti en étudiant un domaine de droit à l'Université et celui en le pratiquant dans le cadre de mon mandat pour QuidJuris. 
 
@@ -52,12 +52,17 @@ Comme pour le graphe précédent, pour des questions de compacité, tous les dom
 
 Certains domaines inclus dans le graphe mérite des explications supplémentaires :
 
-- Le droit du bail : cette matière n'est pas une branche à elle seule à l'Université, contrairement au droit du travail qui, chaque année, concerne un peu moins de demandes que le bail (*cf*. deuxième graphe). En effet, le bail est un chapitre du cours *Contrats spéciaux* de troisième année de droit. Pourtant, ce type de contrat soulève le plus de questions pour nos clients, comme le démontre le deuxième graphe ;
+- Le droit du bail : cette matière n'est pas une branche à elle seule à l'Université, contrairement au droit du travail qui, chaque année, concerne un peu moins de demandes que le bail (*cf*. graphe - matières). En effet, le bail est un chapitre du cours *Contrats spéciaux* de troisième année de droit. Pourtant, ce type de contrat soulève le plus de questions pour nos clients, comme le démontre le deuxième graphe ;
 - Protection des données : comme mentionné plus haut, la protection des données est un domaine du droit en grand développement. De ce fait, il n'y a que peu de jurisprudence et de pratique, surtout adaptée aux petites sociétés ou aux PME. D'où la grande différence quant au niveau de facilité entre QuidJuris et les cours. Nos clients nous demandent, dans le cadre des formations et des demandes, comment, par exemple, concrétement organiser leur base de données, avec quels logiciels/boîte mail utilisés pour garantir la sécurité des données, etc. Le cours aide à aiguiller les réponses, mais cela reste compliqué de fournir un conseil alors que le domaine est en grande expansion et présente, ainsi, beaucoup d'incertitudes quant à la concrétisation des règles légales. 
 
+Je tiens également à préciser que ce dernier graphe poursuit plus un objectif artistique et ludique qu'une sérieuse et profonde analyse des difficultés rencontrées. Du reste, nous pouvons noter que la pratique chez QuidJuris, même si ayant des points communs, est différente de la pratique dans un cabinet d'avocat ou dans une entreprise. *Ergo*, ce graphe ne vaut que pour mon expérience propre chez QuidJuris et les résultats d'un graphe sur le sujet de la facilité que je pourrais réaliser après avoir travaillé ailleurs sera, en toute vraisemblance, divergent du présent.
 
 
 ## Conclusion
+
+Ce projet m'a permis, pour la première depuis que je travaille pour QuidJuris, d'avoir une vue d'ensemble sur les années des activités de l'association. En effet, comment mentionné auparavant, aucun graphe n'avait été réalisé par le passé avec les bases de données à disposition.
+
+Il est également très intéressant d'observer l'évolution du nombre de demandes par domaine de droit puisque cela permet d'avoir une idée de ce que préoccupe nos clients et donc ce qui les poussent à nous contacter.
 
 Vous trouverez ci-dessous le lien vers le Notebook Observable :
 
