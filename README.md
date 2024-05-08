@@ -50,7 +50,10 @@ Le graphe ne traite, bien évidemment, que des matières vues dans les cadres. P
 
 Comme pour le graphe précédent, pour des questions de compacité, tous les domaines de droit étudiés et pratiqués ne sont pas affichés. Je n'ai choisi de considérer que les matières sur lesquelles j'ai rédigé plusieurs avis puisque, d'après moi, une seule demande est insuffisante pour baser mon opinion sur la difficulté que représente un domaine de droit en pratique.
 
+Certains domaines inclus dans le graphe mérite des explications supplémentaires :
 
+- Le droit du bail : cette matière n'est pas une branche à elle seule à l'Université, contrairement au droit du travail qui, chaque année, concerne un peu moins de demandes que le bail (*cf*. deuxième graphe). En effet, le bail est un chapitre du cours *Contrats spéciaux* de troisième année de droit. Pourtant, ce type de contrat soulève le plus de questions pour nos clients, comme le démontre le deuxième graphe ;
+- Protection des données : comme mentionné plus haut, la protection des données est un domaine du droit en grand développement. De ce fait, il n'y a que peu de jurisprudence et de pratique, surtout adaptée aux petites sociétés ou aux PME. D'où la grande différence quant au niveau de facilité entre QuidJuris et les cours. Nos clients nous demandent, dans le cadre des formations et des demandes, comment, par exemple, concrétement organiser leur base de données, avec quels logiciels/boîte mail utilisés pour garantir la sécurité des données, etc. Le cours aide à aiguiller les réponses, mais cela reste compliqué de fournir un conseil alors que le domaine est en grande expansion et présente, ainsi, beaucoup d'incertitudes quant à la concrétisation des règles légales. 
 
 
 
