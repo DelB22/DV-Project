@@ -2,14 +2,23 @@
 
 ### Table des matières
 
-1. Introduction
-2. Graphe - années
-3. Graphe - matières
-4. Graphes - facilité
-5. Conclusion
+1. Références du projet
+2. Introduction
+3. Graphe - années
+4. Graphe - matières
+5. Graphes - facilité
+6. Conclusion
+
+## Référence du projet
+
+**Cours** : Visualisation des Données, Master DCS, UNIL
+**Professeur** : Isaac Pante
+**Titre** : Projet Data Visualisation P2024 - Analyse des données de l'association QuidJuris
+**Auteur** : Delphine Bonzon 
+**Année académique** : 2023-2024
+**Semestre** : printemps
 
 ## Introduction
-**Projet data visualisation P2024**
 
 Dans le cadre de mon master en droit, criminalité et sécurité des technologies de l'information, j'ai suivi le cours *Visualisation des données* du Professeur Pante.
 
