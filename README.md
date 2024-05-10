@@ -12,10 +12,15 @@
 ## Référence du projet
 
 **Cours** : Visualisation des Données, Master DCS, UNIL
+
 **Professeur** : Isaac Pante
+
 **Titre** : Projet Data Visualisation P2024 - Analyse des données de l'association QuidJuris
+
 **Auteur** : Delphine Bonzon 
+
 **Année académique** : 2023-2024
+
 **Semestre** : printemps
 
 ## Introduction
