@@ -4,9 +4,9 @@
 
 1. Références du projet
 2. Introduction
-3. Graphe - années
-4. Graphe - matières
-5. Graphes - facilité
+3. Demandes par année
+4. Demandes par matière
+5. Facilité en cours vs. en pratique
 6. Conclusion
 
 ## Référence du projet
@@ -33,7 +33,7 @@ Je, conseillère pour QuidJuris, résous les questions juridiques des clients au
 
 Pour protéger les données de mon association, j'en ai modifié certaines. Néanmoins, les proportions restent inchangées.
 
-## Graphe - années
+## Demandes par année
 
 Le premier graphe rassemble toutes les bases de données de QuidJuris. Il sert à comparer le nombre de demandes reçues depuis la création de l'association jusqu'à l'année 2023. 2024 n'est bien sûre pas prise en compte puisqu'elle n'est pas encore achevée. Néanmoins, une fois qu'elle le sera, je pourrais ajouter la base de donnée 2024 à la visualisation ci-dessous, ainsi que les années  qui suivront. 
 
@@ -41,7 +41,7 @@ Le premier graphe rassemble toutes les bases de données de QuidJuris. Il sert �
 
 Ce graphe n'est qu'une vue d'ensemble du nombre de demandes reçues. Il ne prend par exemple pas en compte la complexité de chaque demande, ce qui fait varier considérablement le temps nécessaire pour rédiger un avis de droit et les honoraires perçus. Le graphe ne fait non plus de distinction en fonction de la matière, ce que le graphe suivant corrige. 
 
-## Graphe - matières
+## Demandes par matière
 
 Ce graphe représente la quantité de demandes reçues sur six ans. Contrairement au graphe précédent, y est également présent le domaine de droit concernées par les demandes.
 
@@ -54,7 +54,7 @@ Pour des raisons de lisibilité, tous les domaines traités durant ces six ans n
 
 Au demeurant, j'ai fait face à quelques problèmes en collectant les données pour déterminer le domaine de droit. En effet, souvent, une demande ne peut pas être cantonnée à une seule matière juridique. Certaines demandes relevées concernaient plusieurs domaines présents dans le graphe. Dans ce genre de situation, j'ai attribué la demande au domaine qui semblait prépondérant. 
 
-## Graphe- facilité
+## Facilité en cours vs. en pratique
 
 Le dernier graphe est plus personnel puisqu'il compare la différence entre le niveau de facilité que j'ai ressenti en étudiant un domaine de droit à l'Université et celui en le pratiquant dans le cadre de mon mandat pour QuidJuris. 
 
