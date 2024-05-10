@@ -9,7 +9,7 @@
 5. Facilité en cours vs. en pratique
 6. Conclusion
 
-## Référence du projet
+## Références du projet
 
 **Cours** : Visualisation des Données, Master DCS, UNIL
 
