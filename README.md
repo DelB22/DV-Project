@@ -67,9 +67,11 @@ Quels sont les types de demandes reçues par QuidJuris et en quelle quantité ? 
 
 Ce graphe représente la quantité de demandes reçues sur six ans. Contrairement au graphe précédent, y est également présent le domaine de droit concernées par les demandes. Un diagramme d'aires a été choisi pour séparer par couleur les différentes matières et pour analyser leur évolution dans le temps, ainsi que la divergence entre les branches. 
 
+Pour des raisons de lisibilité, tous les domaines traités durant ces six ans ne sont pas affichés dans le graphe. Tous les avis rédigés par QuidJuris couvrent au moins vingt matières juridiques par an. De ce fait, j'ai choisi d'aborder seulement les domaines pour lesquels l'association reçoit le plus de demande. À cela, j'ai adjoint deux matières qui m'intéressent d'étudier plus en profondeur sur le temps
+
 **Lecture**
 
-Le nombre total de demandes par année est représenté par matière. Pour des raisons de lisibilité, tous les domaines traités durant ces six ans ne sont pas affichés dans le graphe. Tous les avis rédigés par QuidJuris couvrent au moins vingt matières juridiques par an. De ce fait, j'ai choisi d'aborder seulement les domaines pour lesquels l'association reçoit le plus de demande. À cela, j'ai adjoint deux matières qui m'intéressent d'étudier plus en profondeur sur le temps :
+Le nombre total de demandes par année est représenté par matière :
 
 - *Bail* : noir
 - *Travail* : jaune clair
@@ -84,7 +86,9 @@ Le nombre total de demandes par année est représenté par matière. Pour des r
 
 **Interprétation**
  
+Commentaires sur certains domaines de droit :
 
+- Bail :
 - Covid : durant la période du *lockdown*, certains clients nous ont posé des questions sur différentes conséquences juridiques de la pandémie. Malgré la présence peristante du Covid, il semblerait que, pour nos clients, les inquiétudes sur le côté légal de la maladie aient diminuées avec la fin du *lockdown*. Il sera intéressant de savoir si un sujet qui pourra potentiellement refaire surface, notamment par rapport aux remboursements des prêts effectués par la Confédération ;
 - La protection des données : en plus de la rédaction d'avis juridiques sur la protection des données, QuidJuris propose également des formations sur le sujet depuis deux ans (pas inclus dans les nombres de demandes). À travers ces formations et le chiffre croissant de questions traitées sur ce domaine par QuidJuris, nous avons pu constaté que c'est un sujet devenant de plus en plus anxiogène. En effet, entre le Règlement général sur la protection des données (RGPD/UE) et l'entrée en vigueur en septembre 2023 de la nouvelle Loi fédérale sur la protection des données (LPD), ce domaine de droit est d'actualité. Nous avons remarqué que beaucoup de petites sociétés peinent souvent à savoir si ce qu'elles font est légal. Ayant consulté toutes les bases de données de QuidJuris, je peux affirmer que la protection des données n'a jamais fait partie des questions posées par nos clients avant 2021.
 
@@ -96,21 +100,22 @@ Au demeurant, j'ai fait face à quelques problèmes en collectant les données p
 
 **Hypothèse et orientation de recherche**
 
-
+Quelle est la différence de facilité ressentie entre une branche étudiée à l'Univerité et cette même branche, mais en pratique ? Existe-t-il un écart entre les deux ? Si oui, dans quel ordre de grandeur ?
 
 **Choix**
 
-Le dernier graphe est plus personnel puisqu'il compare la différence entre le niveau de facilité que j'ai ressenti en étudiant un domaine de droit à l'Université et celui en le pratiquant dans le cadre de mon mandat pour QuidJuris.
+Cette visualisation cherche à quantifier la différence de facilité entre un domaine de droit étudié dans un cadre académéque et pratiqué dans le cadre d'un métier. Le graphe ne traite, bien évidemment, que des matières vues dans les deux environnemments. Par exemple, le cours de droit romain de deuxième année de Bachelor de droit, bien que très apprécié, ne peut pas figurer sur ce graphe. Il y a également des questions soulevées par des clients que l'Université n'a pas couvertes, comme beaucoup des conséquences juridiques liées au Covid, ainsi que la rédaction de contrats ou de lettres pour les clients. Pour ce faire, une représentation par nuage de points semble adéquate pour exposer la différence entre deux variable. Pour comparer les matières entre elles, ou plutôt leur divergence entre les deux environnements, j'ai inséré à la visualisation des lignes pour relier le point *cours* à son point *QuidJuris* correspondant. 
+
+L'effet ombré n'est que purement artistique.
 
 **Lecture**
 
+Le dernier graphe est plus personnel puisqu'il compare la différence entre le niveau de facilité que j'ai ressenti en étudiant un domaine de droit à l'Université et celui en le pratiquant dans le cadre de mon mandat pour QuidJuris.
 
+- *QuidJuris* : violet
+- *Cours* : rose
 
 **Interprétation**
-
-Le graphe ne traite, bien évidemment, que des matières vues dans les cadres. Par exemple, le cours de droit romain de deuxième année de Bachelor de droit, bien que très apprécié, ne peut pas figurer sur ce graphe. Il y a également des questions soulevées par des clients que l'Université n'a pas couvertes, comme beaucoup des conséquences juridiques liées au Covid, ainsi que la rédaction de contrats ou de lettres pour les clients. 
-
-Comme pour le graphe précédent, pour des questions de compacité, tous les domaines de droit étudiés et pratiqués ne sont pas affichés. Je n'ai choisi de considérer que les matières sur lesquelles j'ai rédigé plusieurs avis puisque, d'après moi, une seule demande est insuffisante pour baser mon opinion sur la difficulté que représente un domaine de droit en pratique.
 
 Certains domaines inclus dans le graphe mérite des explications supplémentaires :
 
