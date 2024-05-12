@@ -27,7 +27,7 @@
 
 Dans le cadre de mon master en droit, criminalité et sécurité des technologies de l'information, j'ai suivi le cours *Visualisation des données* du Professeur Pante.
 
-N'ayant pas d'expérience précédente en la matière, j'ai utilisé la plateforme Observable (https://observablehq.com/) afin de créer des graphiques pour visualiser des données professionnelles. En effet, dans le cadre de ce cours, nous devons présenter un projet contenant trois graphes. C'est ainsi que j'ai choisi d'analyser des données liées au mandat que j'effectue pour QuidJuris. Cette association, créée en 2011, propose à toutes et tous des analyses juridiques en droit suisse à bas prix (https://qjuris.ch/). De plus, QuidJuris poursuit un deuxième objectif : en effet, elle n'engage comme madataire que des étudiants de droit, tels que moi, afin de leur offrir une première expérience en la pratique. 
+N'ayant pas d'expérience précédente en la matière, j'ai utilisé la plateforme Observable (https://observablehq.com/) afin de créer des graphiques pour visualiser des données professionnelles. En effet, dans le cadre de ce cours, nous devons présenter un projet contenant trois graphes. C'est ainsi que j'ai choisi d'analyser des données liées au mandat que j'effectue pour QuidJuris. Cette association, créée en 2011, propose à toutes et tous des analyses juridiques en droit suisse à bas prix (https://qjuris.ch/). De plus, QuidJuris poursuit un deuxième objectif : en effet, elle n'engage comme madataire que des étudiants de droit afin de leur offrir une première expérience en la pratique. 
 
 Je, conseillère pour QuidJuris, résous les questions juridiques des clients au nom de l'association. Dans ce cadre, je collecte également des données sur les avis de droit fournis et la clientèle. À ma connaissance, les bases de données de l'association n'ont encore jamais été utilisées à des fin de visualisation, d'où ma curiosité de pouvoir enfin avoir une vue d'ensemble.
 
@@ -53,7 +53,7 @@ Durant les dix ans d'existance de QuidJuris, l'assocation a connu un pique de no
 
 Cette visualisation permet d'avoir une vue d'ensemble de l'évolution de QuidJuris depuis sa création. S'agissant du pique en 2012-2013, il est important de savoir, qu'à l'époque, l'association avait joui de publicité puisque sa création avait suscité quelques articles de journaux. Depuis, à ma connaissance, QuidJuris est plutôt une association connue de bouche-à-oreille, cette dernière n'ayant pas fait de publicité particulière à propos de ses services. Néamoins, ce graphe est insuffisant pour déduire que la publicité était la cause certaine de la nette augmentation de l'activité de QuidJuris. Cette hypothèse pourrait cependant être étoffée si l'association promouvait encore une fois ses services : en effet, nous pourrions étudier l'effet de cette nouvelle publicité sur le nombre de demandes.
 
-Ce graphe n'étant qu'une vue d'ensemble du nombre de demandes reçues, il prend par exemple pas en compte la complexité de chaque demande, ce qui fait varier considérablement le temps nécessaire pour rédiger un avis de droit et les honoraires perçus. Le graphe ne fait non plus de distinction en fonction de la matière, ce que le graphe suivant corrige. 
+Ce graphe n'étant qu'une vue d'ensemble du nombre de demandes reçues, il ne prend par exemple pas en compte la complexité de chaque demande, ce qui fait varier considérablement le temps nécessaire pour rédiger un avis de droit et les honoraires perçus. Le graphe ne fait non plus de distinction en fonction de la matière, ce que le graphe suivant corrige. 
 
 ## Demandes par matière
 
@@ -78,7 +78,7 @@ Le nombre total de demandes par année est représenté par matière :
 - *Droit matrimonial* : mauve
 - *Successions* : jaune
 - *Sociétés et et associations* : orange
-- *Protectiond des données* : orange foncé
+- *Protection des données* : orange foncé
 - *Droits réels et constructions* : violet
 - *Poursuite et faillite* : bordeau
 - *Covid* : bleu foncé
@@ -88,7 +88,7 @@ Le nombre total de demandes par année est représenté par matière :
  
 Nous pouvons déduire de la visualisation que le nombre de demandes par matière ne reste pas dans les mêmes proportions chaque année. Le droit du travail et le droit de bail sont clairement les deux domaines de droit les plus recherchés par nos clients. De plus, nous pouvons noter l'apparition de certaines "nouveautés" en fonction de l'évolution de notre société, telles que la protection des données et les questions juridiques liées au Covid.
 
-Nous pouvons également formuler une hypothèse sur le type de clients que notre association attire. En effet, les domaines les plus prisés sont le droit du bail, du travail (nous sommes plutôt contactés par des employés que par des employeurs) et le droit matrimonial. Nous pouvons ainsi arguer que notre client moyen est une personne physique (donc pas morale, c'est-à-dire les sociétés) nous contactant pour des problèmes impactant sa vie privée (famille, logement et emploi).
+Nous pouvons également formuler une hypothèse sur le type de clients que notre association attire. En effet, les domaines les plus prisés sont le droit du bail, du travail (nous sommes plutôt contactés par des employés que par des employeurs) et le droit matrimonial. Nous pouvons ainsi arguer que notre client moyen est une personne physique (donc pas une personne morale, c'est-à-dire les sociétés) nous contactant pour des problèmes impactant sa vie privée (famille, logement et emploi).
 
 Certains domaines inclus dans le graphe mérite des explications supplémentaires :
 
@@ -120,13 +120,13 @@ Le dernier graphe est plus personnel puisqu'il compare la différence entre le n
 
 **Interprétation**
 
-L'écart de la facilité ressentie en cours et celle dans la pratique dépend lourdement de la matière. En effet, en droit administraitf, droit du bail, du travail, des obligations (autres) et en poursuite pour des dettes et faillite, nous constatons que la différence entre les facilités est minimes, alors par exemple la variation en droit matrimminal, des successions et de la protection des données est conséquente. 
+L'écart de la facilité ressentie en cours et celle dans la pratique dépend lourdement de la matière. En effet, en droit administraitf, droit du bail, du travail, des obligations (autres) et en poursuite pour des dettes et faillite, nous constatons que la différence entre les facilités est minime, alors par exemple la variation en droit matrimminal, des successions et de la protection des données est conséquente. 
 
 Certains domaines inclus dans le graphe mérite des explications supplémentaires :
 
 - Le droit matrimonial et des successions : en cours, j'ai trouvé ces deux branches très compliquées, alors qu'en pratique, les questions des clients sont relativement aisément résolues. À mon avis, cela pourrait être lié aux types de questions posées. En effet, j'imagine que pour le droit matrimonial, qui est le plus couramment une question de divroce ou d'entretien chez QuidJuris, les clients ne posent que des questions préliminaires puisque ce sont des problèmes juridiques où ils doivent souvent saisir la justice de toute façon. Quant au droit des successions, les notaires sont spécialisés en la matière et d'après moi, les clients se tourneront plutôt vers eux pour régler en détail leurs problèmes à ce sujet. L'écart important pourrait aussi être preuve d'un bon enseignement d'une matière difficile, devenue plus simple par les connaissances partagées. 
 - Le droit du bail : cette matière n'est pas une branche à elle seule à l'Université, contrairement au droit du travail qui, chaque année, concerne un peu moins de demandes que le bail (*cf*. graphe - matières). En effet, le bail est un chapitre du cours *Contrats spéciaux* de troisième année de droit. Pourtant, ce type de contrat soulève le plus de questions pour nos clients, comme le démontre le deuxième graphe ;
-- Protection des données : comme mentionné plus haut, la protection des données est un domaine du droit en grand développement. De ce fait, il n'y a que peu de jurisprudence et de pratique, surtout adaptée aux petites et moyennes entreprises. D'où la grande différence quant au niveau de facilité entre QuidJuris et les cours. Nos clients nous demandent, dans le cadre des formations et des demandes, comment, par exemple, concrétement organiser leur base de données, quels logiciels/boîte mail utiliser pour garantir la sécurité des données, etc. Le cours aide à aiguiller les réponses, mais cela reste compliqué de fournir un conseil alors que le domaine est en grande expansion et présente, ainsi, beaucoup d'incertitudes quant à la concrétisation des règles légales. 
+- Protection des données : comme mentionné plus haut, la protection des données est un domaine du droit en grand développement. De ce fait, il n'y a que peu de jurisprudence et de pratique, surtout adaptée aux petites et moyennes entreprises. Ainsi s'explique la grande différence quant au niveau de facilité entre QuidJuris et les cours : nos clients nous demandent, dans le cadre des formations et des demandes, comment, par exemple, concrétement organiser leur base de données, quels logiciels/boîte mail utiliser pour garantir la sécurité des données, etc. Le cours aide à aiguiller les réponses, mais cela reste compliqué de fournir un conseil alors que le domaine est en grande expansion et présente, ainsi, beaucoup d'incertitudes quant à la concrétisation des règles légales. 
 
 Je tiens également à préciser que ce dernier graphe poursuit plus un objectif artistique et ludique qu'une sérieuse et profonde analyse des difficultés rencontrées. Du reste, nous pouvons noter que la pratique chez QuidJuris, même si ayant des points communs, est différente de la pratique dans un cabinet d'avocat ou dans une entreprise. *Ergo*, ce graphe ne vaut que pour mon expérience propre chez QuidJuris et les résultats d'un graphe que je pourrais réaliser après avoir travaillé ailleurs sera, en toute vraisemblance, divergent du présent.
 
