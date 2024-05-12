@@ -86,9 +86,12 @@ Le nombre total de demandes par année est représenté par matière :
 
 **Interprétation**
  
-Commentaires sur certains domaines de droit :
+Nous pouvons déduire de la visualisation que le nombre de demandes par matière ne reste pas dans les mêmes proportions chaque année. Le droit du travail et le droit de bail sont clairement les deux domaines de droit les plus recherchés par nos clients. De plus, nous pouvons noter l'apparition de certaines "nouveautés" en fonction de l'évolution de notre société, telles que la protection des données et les questions juridiques liées au Covid.
 
-- Bail :
+Nous pouvons également formuler une hypothèse sur le type de clients que notre association attire. En effet, les domaines les plus prisés sont le droit du bail, du travail (nous sommes plutôt contactés par des employés que par des employeurs) et le droit matrimonial. Nous pouvons ainsi arguer que notre client moyen est une personne physique (donc pas morale, c'est-à-dire les sociétés) nous contactant pour des problèmes impactant sa vie privée (famille, logement et emploi).
+
+Certains domaines inclus dans le graphe mérite des explications supplémentaires :
+
 - Covid : durant la période du *lockdown*, certains clients nous ont posé des questions sur différentes conséquences juridiques de la pandémie. Malgré la présence peristante du Covid, il semblerait que, pour nos clients, les inquiétudes sur le côté légal de la maladie aient diminuées avec la fin du *lockdown*. Il sera intéressant de savoir si un sujet qui pourra potentiellement refaire surface, notamment par rapport aux remboursements des prêts effectués par la Confédération ;
 - La protection des données : en plus de la rédaction d'avis juridiques sur la protection des données, QuidJuris propose également des formations sur le sujet depuis deux ans (pas inclus dans les nombres de demandes). À travers ces formations et le chiffre croissant de questions traitées sur ce domaine par QuidJuris, nous avons pu constaté que c'est un sujet devenant de plus en plus anxiogène. En effet, entre le Règlement général sur la protection des données (RGPD/UE) et l'entrée en vigueur en septembre 2023 de la nouvelle Loi fédérale sur la protection des données (LPD), ce domaine de droit est d'actualité. Nous avons remarqué que beaucoup de petites sociétés peinent souvent à savoir si ce qu'elles font est légal. Ayant consulté toutes les bases de données de QuidJuris, je peux affirmer que la protection des données n'a jamais fait partie des questions posées par nos clients avant 2021.
 
@@ -117,8 +120,11 @@ Le dernier graphe est plus personnel puisqu'il compare la différence entre le n
 
 **Interprétation**
 
+L'écart de la facilité ressentie en cours et celle dans la pratique dépend lourdement de la matière. En effet, en droit administraitf, droit du bail, du travail, des obligations (autres) et en poursuite pour des dettes et faillite, nous constatons que la différence entre les facilités est minimes, alors par exemple la variation en droit matrimminal, des successions et de la protection des données est conséquente. 
+
 Certains domaines inclus dans le graphe mérite des explications supplémentaires :
 
+- Le droit matrimonial et des successions : en cours, j'ai trouvé ces deux branches très compliquées, alors qu'en pratique, les questions des clients sont relativement aisément résolues. À mon avis, cela pourrait être lié aux types de questions posées. En effet, j'imagine que pour le droit matrimonial, qui est le plus couramment une question de divroce ou d'entretien chez QuidJuris, les clients ne posent que des questions préliminaires puisque ce sont des problèmes juridiques où ils doivent souvent saisir la justice de toute façon. Quant au droit des successions, les notaires sont spécialisés en la matière et d'après moi, les clients se tourneront plutôt vers eux pour régler en détail leurs problèmes à ce sujet. L'écart important pourrait aussi être preuve d'un bon enseignement d'une matière difficile, devenue plus simple par les connaissances partagées. 
 - Le droit du bail : cette matière n'est pas une branche à elle seule à l'Université, contrairement au droit du travail qui, chaque année, concerne un peu moins de demandes que le bail (*cf*. graphe - matières). En effet, le bail est un chapitre du cours *Contrats spéciaux* de troisième année de droit. Pourtant, ce type de contrat soulève le plus de questions pour nos clients, comme le démontre le deuxième graphe ;
 - Protection des données : comme mentionné plus haut, la protection des données est un domaine du droit en grand développement. De ce fait, il n'y a que peu de jurisprudence et de pratique, surtout adaptée aux petites et moyennes entreprises. D'où la grande différence quant au niveau de facilité entre QuidJuris et les cours. Nos clients nous demandent, dans le cadre des formations et des demandes, comment, par exemple, concrétement organiser leur base de données, quels logiciels/boîte mail utiliser pour garantir la sécurité des données, etc. Le cours aide à aiguiller les réponses, mais cela reste compliqué de fournir un conseil alors que le domaine est en grande expansion et présente, ainsi, beaucoup d'incertitudes quant à la concrétisation des règles légales. 
 
